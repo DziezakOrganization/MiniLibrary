@@ -6,7 +6,6 @@
     <Version>1.0.0</Version>
     <Authors>dziezak</Authors>
     <Description>Mini library example</Description>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
